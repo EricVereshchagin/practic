@@ -1,0 +1,15 @@
+body{
+    font:12px Verdana;
+    color:#5f5f5f;
+    background: #c7d4d9;
+}
+.form{
+    width: 350px;
+    margin: 20px auto;
+    padding: 0 auto;
+    border: 1px solid #00CED1;
+    text-align: center;
+    -webkit-box-shadow: 1px 5px 14px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 5px 14px 10px rgba(0,0,0,0.75);
+    box-shadow: 1px 5px 14px 10px rgba(0,0,0,0.75);
+}
